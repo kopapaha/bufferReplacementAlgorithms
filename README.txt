@@ -1,3 +1,4 @@
 buffer replacement policies
--LFU
--
+-LFU in buffer history
+-LFU full history
+-amalgam
